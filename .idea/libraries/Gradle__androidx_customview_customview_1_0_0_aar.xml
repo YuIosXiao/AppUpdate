@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.customview:customview:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-3/8eeb4942592d48518c51887bf9c8e2cb/transformed/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1b638be581a095ad092586629abb86ee/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1b638be581a095ad092586629abb86ee/customview-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1b638be581a095ad092586629abb86ee/customview-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1b638be581a095ad092586629abb86ee/customview-1.0.0/res" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1b638be581a095ad092586629abb86ee/customview-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1b638be581a095ad092586629abb86ee/customview-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.customview/customview/1.0.0/61f6a717d144dff3a6bda413d9abeeb2bca71581/customview-1.0.0-sources.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.customview/customview/1.0.0/61f6a717d144dff3a6bda413d9abeeb2bca71581/customview-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

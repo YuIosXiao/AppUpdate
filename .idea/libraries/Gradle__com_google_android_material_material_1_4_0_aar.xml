@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.4.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ee045e287da462649409269bc43e5d1d/material-1.4.0/annotations.zip!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ee045e287da462649409269bc43e5d1d/material-1.4.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ee045e287da462649409269bc43e5d1d/material-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ee045e287da462649409269bc43e5d1d/material-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ee045e287da462649409269bc43e5d1d/material-1.4.0/AndroidManifest.xml" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ee045e287da462649409269bc43e5d1d/material-1.4.0/jars/classes.jar!/" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ee045e287da462649409269bc43e5d1d/material-1.4.0/AndroidManifest.xml" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ee045e287da462649409269bc43e5d1d/material-1.4.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/com.google.android.material/material/1.4.0/51035a8f6342c20d4d8f242d100e6f25e0c271ac/material-1.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/com.google.android.material/material/1.4.0/51035a8f6342c20d4d8f242d100e6f25e0c271ac/material-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1e2dbc0104ff3c38576b9e959a6924b4/swiperefreshlayout-1.1.0/annotations.zip!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1e2dbc0104ff3c38576b9e959a6924b4/swiperefreshlayout-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1e2dbc0104ff3c38576b9e959a6924b4/swiperefreshlayout-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1e2dbc0104ff3c38576b9e959a6924b4/swiperefreshlayout-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1e2dbc0104ff3c38576b9e959a6924b4/swiperefreshlayout-1.1.0/AndroidManifest.xml" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1e2dbc0104ff3c38576b9e959a6924b4/swiperefreshlayout-1.1.0/res" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1e2dbc0104ff3c38576b9e959a6924b4/swiperefreshlayout-1.1.0/jars/classes.jar!/" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/1e2dbc0104ff3c38576b9e959a6924b4/swiperefreshlayout-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

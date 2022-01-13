@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.constraintlayout:constraintlayout:2.1.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/422ca5cd8a75d22d9c71c970be53a695/constraintlayout-2.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/422ca5cd8a75d22d9c71c970be53a695/constraintlayout-2.1.2/res" />
+      <root url="file://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/422ca5cd8a75d22d9c71c970be53a695/constraintlayout-2.1.2/AndroidManifest.xml" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/422ca5cd8a75d22d9c71c970be53a695/constraintlayout-2.1.2/jars/classes.jar!/" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/422ca5cd8a75d22d9c71c970be53a695/constraintlayout-2.1.2/AndroidManifest.xml" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/422ca5cd8a75d22d9c71c970be53a695/constraintlayout-2.1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout/2.1.2/27c8deba9cd24ac581019ea387278de2ffd396a/constraintlayout-2.1.2-sources.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout/2.1.2/27c8deba9cd24ac581019ea387278de2ffd396a/constraintlayout-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
